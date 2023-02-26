@@ -1,6 +1,6 @@
 ### Hi there 👋
-### I'm a senior at Handong Global Univ.
-### I'm studying computer science
+### Senior at Handong Global Univ.
+### Studying computer science
 
 <!--
 **jeeyunryu/jeeyunryu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
